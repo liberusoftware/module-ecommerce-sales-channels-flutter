@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-sales-channels-flutter",
+  "capabilityKey": "planned:ecommerce:sales-channels",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_sales_channels_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/sales-channels.md",
+  "presentationPlan": "projects/ecommerce/flutter/sales-channels.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
